@@ -1,0 +1,1 @@
+	Voice assistant using Python, harnessing the power of various libraries and tools to create an interactive and intelligent system capable of understanding and responding to user commands through voice interactions. Utilize Python libraries for speech recognition, text-to-speech conversion, and audio processing.
